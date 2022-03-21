@@ -42,7 +42,7 @@ td {
   padding: 0.25em;
   font-size: 12px;
   line-height: 18px;
-  color: rgb(121, 131, 143);
+  color: rgb(206, 206, 206);
 }
 
 tr {
@@ -55,10 +55,10 @@ tr {
 
 .label {
   font-weight: 600;
-  color: rgb(121, 131, 143);
+  color: rgb(206, 206, 206);
 }
 .octicon {
-  fill: rgb(139, 139, 139);
+  fill: rgb(206, 206, 206);
   margin-right: 1ch;
   vertical-align: top;
 }
